@@ -1,4 +1,6 @@
 🅿️ Parqueadero Inteligente
+
+
 📋 Descripción
 Sistema de parqueadero inteligente que integra una aplicación web con Flask y un microcontrolador Arduino para la gestión automatizada de espacios de estacionamiento.
 
